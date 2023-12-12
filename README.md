@@ -4,4 +4,4 @@
 
 <b>My projects:</b>
 
-[Telegram bot for meeting interesting people from the university]()
+[Telegram bot for meeting interesting people from the university](https://github.com/anyagulyakina/BlendBot)
